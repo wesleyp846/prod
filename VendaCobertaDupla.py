@@ -12,7 +12,6 @@ ABEVX151 15,14 16/12 (0,11) Dia 29/11 vendido
 
 import time
 import MetaTrader5 as mt
-import win32com.client as win32
 
 ATIVO = 'ABEV3'
 COMPRADO = 'ABEVN164'

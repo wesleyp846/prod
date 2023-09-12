@@ -1,7 +1,6 @@
 import MetaTrader5 as mt
 import pandas as pd
 import time
-import win32com.client as win32
 
 def inicializacao():
     try:

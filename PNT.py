@@ -1,6 +1,6 @@
 import pandas as pd
 
-from FUNCOES import *
+from FUNCOESs import *
 from datetime import datetime as dt
 
 PAPEL = ['HASH11', 'ITSA4', 'BOVA11', 'ABEV3', 'ITSAM873', 'ABEVA155', 'ABEVB154', 'ABEVM148',

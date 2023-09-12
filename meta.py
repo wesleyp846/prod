@@ -1,7 +1,7 @@
 import MetaTrader5 as mt
 from datetime import datetime
 import pandas as pd
-import win32com.client as win32
+#import win32com.client as win32
 import time
 
 if not mt.initialize():
